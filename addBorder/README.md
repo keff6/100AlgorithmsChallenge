@@ -1,5 +1,3 @@
-### Check Out My [YouTube Channel](https://www.YouTube.com/CodingTutorials360)
----
 Given a rectangular matrix of characters, add a border of asterisks(*) to it.
 
 **Example**
