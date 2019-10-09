@@ -1,7 +1,3 @@
-### Check Out My [YouTube Channel](https://www.YouTube.com/CodingTutorials360)
-
-##### Algorithm Challenge Available At [CodeFights](https://codefights.com/arcade/intro/level-4/xvkRbxYkdHdHNCKjg)
----
 Given array of integers, find the maximal possible sum of some of its k consecutive elements.
 
 **Example**
