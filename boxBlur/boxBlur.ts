@@ -4,14 +4,14 @@ function boxBlur(image: number[][]): number[][] {
   const result = [];
   
   for(let i=0; i <= widthLen; i++) {
-    const currentPixel = [];
+    const currentPixelLine = [];
     
     for(let j = 0; j <= heightLen; j++) {
       const currentMatrix = image.slice(i,i+3).map(line => line.slice(j,j+3));
       const pixel = getPixel(currentMatrix);
-      currentPixel.push(pixel);
+      currentPixelLine.push(pixel);
     }
-    result.push(currentPixel);
+    result.push(currentPixelLine);
   }
   
   return result;
