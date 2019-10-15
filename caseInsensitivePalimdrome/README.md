@@ -1,7 +1,3 @@
-### Check Out My [YouTube Channel](https://www.YouTube.com/CodingTutorials360)
-
-##### Algorithm Challenge Available At [CodeFights](https://codefights.com/arcade/code-arcade/book-market/G9wj2j6zaWwFWsise)
----
 Given a string, check if it can become a palindrome through a case change of some (possibly, none) letters.
 
 **Example**
