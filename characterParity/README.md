@@ -1,8 +1,3 @@
-
-### Check Out My [YouTube Channel](https://www.YouTube.com/CodingTutorials360)
-
-##### Algorithm Challenge Available At [CodeFights](https://codefights.com/arcade/code-arcade/lab-of-transformations/QKnGhkoi4wKr6xY9b)
----
 Given a character, check if it represents an odd digit, an even digit or not a digit at all.
 
 **Example**
