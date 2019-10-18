@@ -1,7 +1,3 @@
-### Check Out My [YouTube Channel](https://www.YouTube.com/CodingTutorials360)
-
-##### Algorithm Challenge Available At [CodeFights](https://www.youtube.com/watch?v=IVoOmPDCHCM)
----
 Given the string, check if it is a palindrome.
 
 **Example**
