@@ -1,7 +1,3 @@
-### Check Out My [YouTube Channel](https://www.YouTube.com/CodingTutorials360)
-
-### Check Out More Algorithms like this at <a href="https://www.FreeCodeCamp.com"> FreeCodeCamp</a>
----
 Write a function that splits an array (first argument) into groups the length of size (second argument) and returns them as a two-dimensional array.
 
 **Example**
