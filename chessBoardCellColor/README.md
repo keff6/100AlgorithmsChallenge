@@ -1,7 +1,3 @@
-### Check Out My [YouTube Channel](https://www.YouTube.com/CodingTutorials360)
-
-##### Algorithm Challenge Available At [CodeFights](https://codefights.com/arcade/intro/level-6/t97bpjfrMDZH8GJhi)
----
 Given two cells on the standard chess board, determine whether they have the same color or not.
 
 **Example**
