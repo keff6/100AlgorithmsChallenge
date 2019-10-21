@@ -1,7 +1,3 @@
-### Check Out My [YouTube Channel](https://www.YouTube.com/CodingTutorials360)
-
-##### Algorithm Challenge Available At [CodeFights](https://codefights.com/arcade/intro/level-3/JKKuHJknZNj4YGL32)
----
 Given two strings, find the number of common characters between them.
 
 **Example**
