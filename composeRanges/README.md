@@ -1,7 +1,3 @@
-### Check Out My [YouTube Channel](https://www.YouTube.com/CodingTutorials360)
-
-##### Algorithm Challenge Available At [CodeFights](https://codefights.com/interview-practice/task/cHYqbQ9DiWmejAdeG)
----
 Given a sorted integer array that does not contain any duplicates, return a summary of the number ranges it contains.
 
 **Example**
