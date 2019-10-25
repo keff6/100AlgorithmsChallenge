@@ -1,7 +1,3 @@
-### Check Out My [YouTube Channel](https://www.YouTube.com/CodingTutorials360)
-
-##### Algorithm Challenge Available At [CodeFights](https://codefights.com/arcade/intro/level-8/8N7p3MqzGQg5vFJfZ)
----
 Given a string, find the number of different characters in it.
 
 **Example**
