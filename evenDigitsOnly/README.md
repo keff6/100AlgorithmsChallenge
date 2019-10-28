@@ -1,7 +1,3 @@
-### Check Out My [YouTube Channel](https://www.YouTube.com/CodingTutorials360)
-
-##### Algorithm Challenge Available At [CodeFights](https://codefights.com/arcade/intro/level-6/6cmcmszJQr6GQzRwW)
----
 Check if all digits of the given integer are even.
 
 **Example**
