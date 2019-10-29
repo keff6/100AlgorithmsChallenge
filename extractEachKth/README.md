@@ -1,7 +1,4 @@
 ### Check Out My [YouTube Channel](https://www.YouTube.com/CodingTutorials360)
-
-##### Algorithm Challenge Available At [CodeFights](https://codefights.com/arcade/intro/level-8/3AgqcKrxbwFhd3Z3R)
----
 Given array of integers, remove each kth element from it.
 
 **Example**
