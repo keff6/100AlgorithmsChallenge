@@ -1,8 +1,3 @@
-### Check Out My [YouTube Channel](https://www.YouTube.com/CodingTutorials360)
-
-### Check Out More Algorithms like this at <a href="https://www.FreeCodeCamp.com"> FreeCodeCamp</a>
----
-
 Return the factorial of the provided integer.
 
 If the integer is represented with the letter n, a factorial is the product of all positive integers less than or equal to n.
