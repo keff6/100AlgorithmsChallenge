@@ -1,7 +1,3 @@
-### Check Out My [YouTube Channel](https://www.YouTube.com/CodingTutorials360)
-
-##### Algorithm Challenge Available At [CodeFights](https://codefights.com/company-challenges/uber/HNQwGHfKAoYsz9KX6)
----
 Uber is building a Fare Estimator that can tell you how much your ride will cost before you request it. It works by passing approximated ride distance and ride time through this formula:
 
 (Cost per minute) * (ride time) + (Cost per mile) * (ride distance)
