@@ -1,7 +1,3 @@
-### Check Out My [YouTube Channel](https://www.YouTube.com/CodingTutorials360)
-
-##### Algorithm Challenge Available At [CodeFights](https://codefights.com/company-challenges/uber/HNQwGHfKAoYsz9KX6)
----
 Fermat's factorization method is:
 If a · b = n  (where a ≤ b), then there exist some c and d such that n = c^2 - d^2.
 Your goal is to return for given n such c and d as an array.
