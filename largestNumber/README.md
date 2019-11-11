@@ -1,8 +1,3 @@
-### Check Out My [YouTube Channel](https://www.YouTube.com/CodingTutorials360)
-
-##### Algorithm Challenge Available At [CodeFights](https://codefights.com/arcade/code-arcade/intro-gates/SZB5XypsMokGusDhX)
----
-
 **Example**
 
 - For n = 2, the output should be
