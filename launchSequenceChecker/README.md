@@ -1,7 +1,3 @@
-### Check Out My [YouTube Channel](https://www.YouTube.com/CodingTutorials360)
-
-##### Algorithm Challenge Available At [CodeFights](https://codefights.com/arcade/intro/level-9/r9azLYp2BDZPyzaG2)
----
 The master launch sequence consists of several independent sequences for different systems. Your goal is to verify that all the individual system sequences are in strictly increasing order. In other words, for any two elements i and j (i < j) of the master launch sequence that belong to the same system (having systemNames[i] = systemNames[j]), their values should be in strictly increasing order (i.e. stepNumbers[i] < stepNumbers[j]).
 
 **Example**
