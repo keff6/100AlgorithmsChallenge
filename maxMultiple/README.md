@@ -1,7 +1,3 @@
-### Check Out My [YouTube Channel](https://www.YouTube.com/CodingTutorials360)
-
-##### Algorithm Challenge Available At [CodeFights](https://codefights.com/arcade/intro/level-2/xskq4ZxLyqQMCLshr)
----
 Given a divisor and a bound, find the largest integer N such that:
 
 -   N is divisible by divisor.
