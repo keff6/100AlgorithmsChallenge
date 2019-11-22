@@ -1,6 +1,3 @@
-### Check Out My [YouTube Channel](https://www.YouTube.com/CodingTutorials360)
-##### Algorithm Challenge Available At [CodeFights](https://codefights.com/arcade/intro/level-4/Xfeo7r9SBSpo3Wico)
----
 Given a string, find out if its characters can be rearranged to form a palindrome.
 
 **Example**
