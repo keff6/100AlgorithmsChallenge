@@ -1,7 +1,3 @@
-### Check Out My [YouTube Channel](https://www.YouTube.com/CodingTutorials360)
-
-### Check Out More Algorithms like this at <a href="https://www.FreeCodeCamp.com"> FreeCodeCamp</a>
----
 Translate the provided string to pig latin.
 
 Pig Latin takes the first consonant (or consonant cluster) of an English word, moves it to the end of the word and suffixes an "ay".
