@@ -1,7 +1,3 @@
-### Check Out My [YouTube Channel](https://www.YouTube.com/CodingTutorials360)
-
-##### Algorithm Challenge Available At [CodeFights](https://codefights.com/arcade/code-arcade/book-market/2nSEQ8CGoddTJtnbo)
----
 Proper nouns always begin with a capital letter, followed by small letters.
 
 Correct a given proper noun so that it fits this statement.
