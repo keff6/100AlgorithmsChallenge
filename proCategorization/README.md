@@ -1,7 +1,3 @@
-### Check Out My [YouTube Channel](https://www.YouTube.com/CodingTutorials360)
-
-##### Algorithm Challenge Available At [CodeFights](https://codefights.com/arcade/intro/level-4/Xfeo7r9SBSpo3Wico)
----
 Thumbtack helps Professionals (Pros) grow their business by identifying new customers. Upon registering on Thumbtack, a Pro specifies which categories of services they provide. To help match customer requests with qualified Pros, Thumbtack maintains a list of Pros grouped by service categories.
 
 Given a list of pros and their category preferences, return the list of Pros for each category.
