@@ -1,7 +1,3 @@
-### Check Out My [YouTube Channel](https://www.YouTube.com/CodingTutorials360)
-
-### Check Out More Algorithms like this at <a href="https://www.FreeCodeCamp.com"> FreeCodeCamp</a>
----
 You will be provided with an initial array (the first argument in the destroyer function), followed by one or more arguments. Remove all elements from the initial array that are of the same value as these arguments.
 
 **Example**
