@@ -1,7 +1,3 @@
-### Check Out My [YouTube Channel](https://www.YouTube.com/CodingTutorials360)
-
-##### Algorithm Challenge Available At [CodeFights](https://codefights.com/arcade/code-arcade/time-river/ywMyCTspqGXPWRZx5)
----
 Check if the given string is a correct time representation of the 24-hour clock.
 
 **Example**
