@@ -1,14 +1,31 @@
 function almostIncreasingSequence(sequence: number[]): boolean {
-  let lastIncreasing = sequence[0]
-  let toRemoveCount = 0;
-
-  for(let i = 1; i < sequence.length - 1; i++) {
-    if(sequence[i] >= sequence[i+1] || lastIncreasing >= sequence[i]) {
-      toRemoveCount++
-      if(toRemoveCount > 1) return false
+  let prev = Number.NEGATIVE_INFINITY;
+  let next = Number.POSITIVE_INFINITY;
+  let notIncrement = 0;
+  const len = sequence.length;
+    
+  for(let i = 0; i < len - 1; i++) {
+    if(i + 2 < len){
+      next = sequence[i+2];
     } else {
-      lastIncreasing = sequence[i]
+      next = Number.POSITIVE_INFINITY
     }
+
+    if(sequence[i] < sequence[i+1])  {
+      prev = sequence[i];
+    } else {
+      if(sequence[i] < next && sequence[i] > prev) {
+        prev = sequence[i];
+        notIncrement++;
+      } else if(sequence[i + 1] < next && sequence[i+1] > prev){
+         prev = sequence[i + 1];
+         notIncrement++;
+      } else {
+        return false;
+      }
+    }
+
+    if(notIncrement > 1) return false
   }
 
   return true;
