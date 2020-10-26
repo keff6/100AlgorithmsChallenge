@@ -1,20 +1,21 @@
-function areSimilar(a: number[], b: number[]): boolean {
-  if(a.toString() === b.toString()) return true;
+function areSimilar(a, b) {
+    if(a.toString() === b.toString()) return true;
+    const diferentIndexes = [];
   
-  for(let i = 0; i < a.length; i++) {
-    if(a[i] !== b[i]) {
-      const index = b.indexOf(a[i])
-      if(index === -1) {
-        return false
-      } else {
-        let aux = a[i]
-        a[i] = a[index]
-        a[index] = aux
-        return a.toString() === b.toString()
+    for(let i =0; i < a.length; i++) {
+      if(a[i] !== b[i]){
+        diferentIndexes.push(i)
       }
     }
-  }
-  return false  
+  
+    if(diferentIndexes.length !== 2) return false;
+    //swap
+    let aux = b[diferentIndexes[0]]
+    b[diferentIndexes[0]] = b[diferentIndexes[1]];
+    b[diferentIndexes[1]] = aux;
+    
+  
+    return a.toString() === b.toString();
 }
 
 console.log(areSimilar([1, 2, 3], [1, 2, 3]));
