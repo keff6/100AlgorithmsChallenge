@@ -1,7 +1,3 @@
-### Check Out My [YouTube Channel](https://www.YouTube.com/CodingTutorials360)
-
-##### Algorithm Challenge Available At [CodeFights](https://codefights.com/arcade/code-arcade/sorting-outpost/oY6FASrCMEqkxwcAC)
----
 Let's call product(x) the product of x's digits. Given an array of integers a, calculate product(x) for each x in a, and return the number of distinct results you get.
 
 **Example**

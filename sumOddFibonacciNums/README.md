@@ -1,7 +1,3 @@
-### Check Out My [YouTube Channel](https://www.YouTube.com/CodingTutorials360)
-
-### Check Out More Algorithms like this at <a href="https://www.FreeCodeCamp.com"> FreeCodeCamp</a>
----
 Given a positive integer num, return the sum of all odd Fibonacci numbers that are less than or equal to num.
 
 The first two numbers in the Fibonacci sequence are 1 and 1. Every additional number in the sequence is the sum of the two previous numbers. The first six numbers of the Fibonacci sequence are 1, 1, 2, 3, 5 and 8.
